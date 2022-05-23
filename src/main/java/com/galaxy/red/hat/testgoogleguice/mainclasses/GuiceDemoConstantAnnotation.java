@@ -1,7 +1,6 @@
 package com.galaxy.red.hat.testgoogleguice.mainclasses;
 
 import com.galaxy.red.hat.testgoogleguice.module.ConstantAnnotationModule;
-import com.galaxy.red.hat.testgoogleguice.module.ConstantModule;
 import com.galaxy.red.hat.testgoogleguice.request.CircleRequest;
 import com.google.inject.Guice;
 import com.google.inject.Injector;

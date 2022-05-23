@@ -2,7 +2,6 @@ package com.galaxy.red.hat.testgoogleguice.mainclasses;
 
 import com.galaxy.red.hat.testgoogleguice.module.Module;
 import com.galaxy.red.hat.testgoogleguice.request.SquareRequestFieldInjection;
-import com.galaxy.red.hat.testgoogleguice.request.SquareRequestMethodInjector;
 import com.google.inject.Guice;
 import com.google.inject.Injector;
 

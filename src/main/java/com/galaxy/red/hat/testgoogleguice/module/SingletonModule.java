@@ -4,7 +4,6 @@ import com.galaxy.red.hat.testgoogleguice.request.SquareRequest;
 import com.galaxy.red.hat.testgoogleguice.services.DrawShape;
 import com.galaxy.red.hat.testgoogleguice.services.DrawSquare;
 import com.google.inject.AbstractModule;
-import com.google.inject.Scope;
 import com.google.inject.Scopes;
 
 public class SingletonModule extends AbstractModule {

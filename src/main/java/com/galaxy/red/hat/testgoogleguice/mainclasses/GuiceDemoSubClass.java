@@ -1,6 +1,5 @@
 package com.galaxy.red.hat.testgoogleguice.mainclasses;
 
-import com.galaxy.red.hat.testgoogleguice.module.Module;
 import com.galaxy.red.hat.testgoogleguice.module.SubClassModule;
 import com.galaxy.red.hat.testgoogleguice.request.SquareRequest;
 import com.google.inject.Guice;

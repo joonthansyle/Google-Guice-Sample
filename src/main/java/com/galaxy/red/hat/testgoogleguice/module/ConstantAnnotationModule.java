@@ -2,7 +2,6 @@ package com.galaxy.red.hat.testgoogleguice.module;
 
 import com.galaxy.red.hat.testgoogleguice.annotation.ColorValue;
 import com.galaxy.red.hat.testgoogleguice.annotation.RadiusValue;
-import com.galaxy.red.hat.testgoogleguice.services.DrawCircle;
 import com.galaxy.red.hat.testgoogleguice.services.DrawCircleWithAnnotation;
 import com.galaxy.red.hat.testgoogleguice.services.DrawShape;
 import com.google.inject.AbstractModule;
