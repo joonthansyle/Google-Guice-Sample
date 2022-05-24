@@ -1,7 +1,7 @@
-g## Google-Guice-Test
+## Google-Guice-Test
 Google Guice Sample Program
 
-## List of Test: (mainclasses package)
+## List of Tests: (mainclasses package)
 * GuiceDemo
 * GuiceDemoConstants
 * GuiceDemoConstantsAnnotation
