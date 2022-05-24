@@ -7,12 +7,6 @@ version '1.0-SNAPSHOT'
 
 repositories {
     mavenCentral()
-//    maven { url 'https://s01.oss.sonatype.org' }
-//    mavenLocal()
-//    gradlePluginPortal()
-//    maven { url 'https://oss.sonatype.org/content/repositories/snapshots/' }
-//    maven { url 'https://s01.oss.sonatype.org/content/repositories/snapshots/' }
-//    maven { url 'https://jitpack.io' }
     google()
 }
 
@@ -35,6 +29,7 @@ dependencies {
 //    implementation 'com.google:guava:10.0.1-v201203051515'
 
 //    implementation "com.google.inject:guice:$guice"
+//    implementation "com.google.inject:guice:5.1.0"
 
 //    implementation 'org.codehaus.mojo:animal-sniffer-annotations:1.21'
 //    implementation 'aopalliance:aopalliance:1.0'
